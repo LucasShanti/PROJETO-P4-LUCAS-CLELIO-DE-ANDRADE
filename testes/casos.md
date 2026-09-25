@@ -33,7 +33,7 @@ Cadastrar as pessoas:
 | Lucas | M |
 | Beatriz | F |
 | Clara | F |
-| Rafael | M |
+| Rafael | F |
 | Sofia | F |
 | Tiago | M |
 
